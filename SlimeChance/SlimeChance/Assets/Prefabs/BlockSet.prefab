@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1207194413573096}
+  m_IsPrefabParent: 1
+--- !u!1 &1207194413573096
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4594619531731656}
+  - component: {fileID: 114477902740436060}
+  m_Layer: 0
+  m_Name: BlockSet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4594619531731656
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1207194413573096}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114477902740436060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1207194413573096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed0c971bd88aac541b77c96a31d35f5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myBlocks:
+  - blockName: Start
+    speakName: MyStart
+    speakSprite: {fileID: 21300000, guid: 5dee1145dc410444cbba8e6d1636c697, type: 3}
+    myType: 0
+    myPoint: 1
+    myText: 'Pretend that life has come and gone and gone and gone and gone and gone
+      strangers, looking on the boulevard, shadows, searching in the niiiiiiiiiiiiiiiiight
+
+'
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - blockName: Start
+    speakName: StartName 2
+    speakSprite: {fileID: 21300000, guid: 5dee1145dc410444cbba8e6d1636c697, type: 3}
+    myType: 0
+    myPoint: 1
+    myText: 'Pretend that life has come and gone again
+
+'
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - blockName: Start
+    speakName: StartName
+    speakSprite: {fileID: 21300000, guid: 5dee1145dc410444cbba8e6d1636c697, type: 3}
+    myType: 0
+    myPoint: 1
+    myText: 'Pretend that life has come and gone a third time
+
+'
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - blockName: Start
+    speakName: StartName
+    speakSprite: {fileID: 21300000, guid: 5dee1145dc410444cbba8e6d1636c697, type: 3}
+    myType: 0
+    myPoint: 1
+    myText: Fourth one yo
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - blockName: EndBlocks
+    speakName: StartName
+    speakSprite: {fileID: 21300000, guid: 5dee1145dc410444cbba8e6d1636c697, type: 3}
+    myType: 0
+    myPoint: 1
+    myText: 'last one at number fiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiive
+
+'
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
