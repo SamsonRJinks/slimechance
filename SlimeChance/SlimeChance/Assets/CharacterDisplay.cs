@@ -17,7 +17,7 @@ public class CharacterDisplay : MonoBehaviour
     private Color myColor;
 
 	// Use this for initialization
-	void Start ()
+	void Awake ()
     {
         myImage = transform.GetChild(0).GetComponent<Image>();
         oldImage = GetComponent<Image>();

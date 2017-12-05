@@ -86,20 +86,19 @@ public class PlayerBehavior : MonoBehaviour
             startingBlocksName = GameData.currentFile.myBlockName;
         }
 
-        //Apply appropriate favor percentages to each
-        if (File.Exists(Application.persistentDataPath + "/Save_File.gd"))
+        for (int i = 0; i < 4; i++)
         {
-            //Applies previously saved favor if available
-            playerFavMan.WedgePercentages = GameData.currentFile.playerFaveLevels;
-            enemyFavMan.WedgePercentages = GameData.currentFile.enemyFaveLevels;
-        }
-        else
-        {
-            //Otherwise, applies new values to each (roozelyn starting better)
-            for (int i = 0; i < 4; i++)
+            playerFavMan.WedgePercentages[i] = 0.0f;
+            enemyFavMan.WedgePercentages[i] = 0.0f;
+
+            if (File.Exists(Application.persistentDataPath + "/Save_File.gd"))
             {
-                playerFavMan.WedgePercentages[i] = 0.0f;
-                enemyFavMan.WedgePercentages[i] = Random.Range(25.0f, 50.0f);
+                FavorManager.InvokeFavorChange(i, (int)GameData.currentFile.playerFaveLevels[i], false, false);
+                FavorManager.InvokeFavorChange(i, (int)GameData.currentFile.enemyFaveLevels[i], false, true);
+            }
+            else
+            {
+                FavorManager.InvokeFavorChange(i, Random.Range(25,49), false, true);
             }
         }
     }
@@ -150,11 +149,6 @@ public class PlayerBehavior : MonoBehaviour
         NextBlock();
     }
 
-    private FavorContainer PlayerFavMan_ReturnFavorValue(int TargetWedge, FavorContainer FavorValueHolder, bool SliOrRoo)
-    {
-        throw new System.NotImplementedException();
-    }
-
     public void NextBlock()
     {
         //go to next textblock in set
@@ -185,6 +179,7 @@ public class PlayerBehavior : MonoBehaviour
             }
             else
             {
+                UpdateGameSave();
                 SceneManager.LoadScene(nextLevel);
             }
         }
@@ -192,7 +187,7 @@ public class PlayerBehavior : MonoBehaviour
 
     public void ChangeNextLevel(string next_)
     {
-        //change the level you're going to next (nextLevel set at start as default of 1, MUST BE CHANGED)
+        //change the level you're going to next (nextLevel set at start as default of "Start", MUST BE CHANGED)
         nextLevel = next_;
     }
 
@@ -281,31 +276,15 @@ public class PlayerBehavior : MonoBehaviour
                 {
                     //if so, continue by creating an easy reference to the type that we can use to access the desired favor
                     int typeNum_ = (int)currentBlock.favorChecks[i].myType;
-                    float[] favorChanging;
-
-                    if(currentBlock.favorChecks[i].changeForPlayer)
+                    bool favorChar = false;
+                    
+                    if(!currentBlock.favorChecks[i].changeForPlayer)
                     {
-                        favorChanging = playerFavMan.WedgePercentages;
-                    }
-                    else
-                    {
-                        favorChanging = enemyFavMan.WedgePercentages;
+                        favorChar = false;
                     }
 
                     //apply change as necessary
-                    favorChanging[typeNum_] += currentBlock.favorChecks[i].favorChangeAmount;
-
-                    //adjust changes back to expected levels, so they don't go over or under the expected limits
-                    if (favorChanging[typeNum_] > 100)
-                    {
-                        favorChanging[typeNum_] = 100;
-                    }
-                    else if (favorChanging[typeNum_] < 0)
-                    {
-                        favorChanging[typeNum_] = 0;
-                    }
-
-                    print("Favor Changes in - Swimming: " + favorChanging[0] + ", Literature: " + favorChanging[1] + ", Paranormal: " + favorChanging[2] + ", Cooking: " + favorChanging[3]);
+                    FavorManager.InvokeFavorChange(typeNum_, currentBlock.favorChecks[i].favorChangeAmount, false, favorChar);
 
                     break;
                 }

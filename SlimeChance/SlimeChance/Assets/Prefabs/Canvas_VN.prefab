@@ -1642,7 +1642,6 @@ MonoBehaviour:
   nameText: {fileID: 114628266879328712}
   textBlocksParent: {fileID: 0}
   startingBlocksName: StartBlocks
-  favorLevels: 00000000000000000000000000000000
 --- !u!114 &114510402909000614
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2299,7 +2298,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1575097974452368}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9efd690d9eaa8843b8fdd382bf3f04c, type: 3}
+  m_Script: {fileID: 11500000, guid: 2c482f24dd6510646b8b9fc53fb51b16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   SlimeanthaOrRoozelyn: 0
@@ -2819,7 +2818,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1158113769648886}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9efd690d9eaa8843b8fdd382bf3f04c, type: 3}
+  m_Script: {fileID: 11500000, guid: 2c482f24dd6510646b8b9fc53fb51b16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   SlimeanthaOrRoozelyn: 1
