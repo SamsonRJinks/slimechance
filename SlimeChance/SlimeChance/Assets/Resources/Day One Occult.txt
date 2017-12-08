@@ -1,0 +1,44 @@
+#Test_One#
+Michiru
+I'm saying something here.
+#End#
+
+#Test_Two#
+Takashi
+I'm saying something else.
+#End#
+
+#Test_Two_Choice_1#
+Choice One
+This is the first choice description.
+#End#
+
+#Test_Two_Choice_2#
+Choice Two
+This is the second choice description.
+#End#
+
+#Test_Two_Choice_3#
+Choice Three
+This is the third choice description. Hi there.
+#End#
+
+#Test_Three#
+Jelly
+Saying a third thing.
+#End#
+
+#Test_Four#
+Borp
+Blorp blorp.
+#End#
+
+#EndBlocks#
+That's...
+The end of that...
+#End#
+
+#EndOfAllThings#
+Yo
+Next level pls.
+#End#

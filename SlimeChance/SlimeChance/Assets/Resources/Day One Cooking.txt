@@ -1,0 +1,214 @@
+#Cooking_00#
+Slimeantha
+(Ok, Jellia said the Cooking Club would be in the Home Ec room...)
+#End#
+
+#Cooking_01#
+???
+I SAID FOUR CLOVES OF GARLIC, WHY DO I ONLY SEE TWO CLOVES IN THIS BOWL?!
+#End#
+
+#Cooking_02#
+Slimeantha
+Eek! (There's a milky-yellow slime girl yelling at all the juniors. Is this the right room?)
+#End#
+
+#Cooking_03#
+???
+What're you even DOING in the Cooking Club if you can't even make a simple sauce?!
+#End#
+
+#Cooking_04#
+Slimeantha
+(I guess I'm in the right place, but I didn't expect cooking to be this... angry! >0<)
+#End#
+
+#Cooking_05#
+???
+I don't CARE if the recipe says two, you always use more than the recipe calls for when it comes to garlic! Listen to your senior, got it?
+#End#
+
+#Cooking_06#
+Slimeantha
+Uh...
+#End#
+
+#Cooking_07#
+???
+Yeah? What, you a new member? Sign-up sheet's over there, aprons on the rack.
+#End#
+
+#Cooking_08#
+Slimeantha
+(Ah, this was a bad idea, I'm not used to making new friends... But I'm not backing off! This is the year when I change myself.)
+#End#
+
+#Cooking_09#
+Slimeantha
+Uh, I'm Slimeantha! It's nice to meet you, um...? 
+#End#
+
+#Cooking_10#
+Paula
+Paula. Cooking Club President, 3rd Year.
+#End#
+
+#Cooking_11#
+Slimeantha
+(Huh, maybe she's not as angry as she seems-?)
+#End#
+
+#Cooking_12#
+Paula
+...and apparently the only person with any TASTE around here! WHAT are you putting in that caponata?!
+#End#
+
+#Cooking_13#
+Slimeantha
+Um... 
+#End#
+
+#Cooking_14#
+Paula
+Yeah? C'mon, spit it out kid.
+#End#
+
+#Cooking_15#
+Slimeantha
+(Don't call me a kid! You're even shorter than I am! =_=;)
+#End#
+
+#Cooking_16#
+Slimeantha
+I'm running for student council president this year! I was hoping the Cooking Club could, uh...
+#End#
+
+#Cooking_17#
+Paula
+Oh, great, another student council election. What, you came here shopping for votes? Well, you're competition talked to me THIS MORNING, so I think you're already behind, don't you?
+#End#
+
+#Cooking_18#
+Slimeantha
+(You mean she already knew who to talk to? Darnit, that girl must be well connected! -3-)
+#End#
+
+#Cooking_19#
+Paula
+Look, you seem sweet and all, but... you don't look like you've got the stock for student council president.
+#End#
+
+#Cooking_20#
+Slimeantha
+Ha ha, yeah, I guess that's true. (Gah, I feel so stupid! I should just end my bid right now!) Sorry for bothering you. I'll just leave-
+#End#
+
+#Cooking_21#
+Slimeantha
+Wait, what is that SMELL? That's delicious...
+#End#
+
+#Cooking_22#
+Paula
+Oh, uh, thanks. It's nothing much, just a little, uh, butternut squash soup...
+#End#
+
+#Cooking_23#
+Slimeantha
+(Wait, is she blushing? She's stirring the soup and keeps looking at me with this hopeful look on her face. Maybe...)
+#End#
+
+#Cooking_24#
+Slimeantha
+Can I try it-
+#End#
+
+#Cooking_25#
+Paula
+OH, WELL, IF YOU INSIST! 
+#End#
+
+#Cooking_26#
+Slimeantha
+(She's giving me some soup... It doesn't look like the other club members are making this, so maybe it's a personal project of hers for the day?)
+#End#
+
+#Cooking_27#
+Slimeantha
+MMMM... It's super thick, but it makes me feel nice and warm, like I'm near a fire on a winter day...
+#End#
+
+#Cooking_28#
+Paula
+Exactly! That's what I love about homestyle cooking, it just fills you up in a special way! 
+#End#
+
+#Cooking_29#
+Paula
+Sure wish I could show the other members how to make it though...
+#End#
+
+#Cooking_30#
+Slimeantha
+Wait, are you not allowed to show them new recipes?
+#End#
+
+#Cooking_31#
+Paula
+Well, sort of. Council rules, we're only allowed to cook with cafeteria food for club stuff, so I have to make use of whatever's in the fridge down there... which is usually Nutri-Goo and Eezy-Cheezy... Blech. DX
+#End#
+
+#Cooking_32#
+Slimeantha
+But that's a dumb rule! You should be able to cook whatever you want!
+#End#
+
+#Cooking_33#
+Paula
+Huh. You think?
+#End#
+
+#Cooking_34#
+Slimeantha
+Absolutely! Especially when you're making something this delicious!
+#End#
+
+#Cooking_35#
+Paula
+Oh man, delicious huh. Well, maybe... I mean, I guess, if you want, you could come by again some time...
+#End#
+
+#Cooking_36#
+Slimeantha
+Sure, that sounds great!
+#End#
+
+#Cooking_37#
+Slimeantha
+(Oh, there's the bell! I better get going!)
+#End#
+
+#Cooking_38#
+Slimeantha
+Thank you so much Paula-
+#End#
+
+#Cooking_39#
+Paula
+Oh no, no, thank you. If you ever want to try more of my genius- I mean, delicious cooking, please come by and sample it again.
+#End#
+
+#Cooking_40#
+Slimeantha
+Uh, yeah, of course! See ya!
+#End#
+
+#Cooking_41#
+Slimeantha
+(I don't know if I got her vote, but I think I've opened a door here! Thank goodness!)
+#End#
+
+#EndBlocks#
+Slimeantha
+(Better meet back up with Jellia. It wasn't a lot of progress, but I'm talking to people at least! :3)
+#End#

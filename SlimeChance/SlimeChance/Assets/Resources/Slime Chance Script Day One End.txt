@@ -1,6 +1,4 @@
-SCENE 3: AFTER CLUB - HALLWAY
-
-#ONE#
+﻿#ONE#
 Jellia 
 *is standing outside with a shoddily-drawn “slimaentha 4 clas prez” sign* Well? How did it go? How did it go? :D
 #END#
@@ -89,5 +87,3 @@ Whaddaya say we go get a snack and some Nutri-goo to celebrate?
 Slimeantha 
 I’d love that, Jellia.
 #END#
-
-#ENDBLOCKS#
