@@ -1,0 +1,128 @@
+SCENE 4: DAY 2 - AFTER CLUB - HALLWAY
+
+#ONE#
+Slimeantha 
+Okay, things are off to a good start! The club leaders seem nice enough, and even seem like they might support me in the campaign.
+#END#
+
+#TWO#
+Jellia 
+Told ya, girl~ you’ve got this in the bag!
+#END#
+
+#THREE#
+Slimeantha 
+Yeah. I just need to keep at this and hope they’ll show up when voting time comes.
+#END#
+
+#FOUR#
+Jellia 
+Well, the debate at the end of next week will be the REAL important part, so it’s best to hope they’ll sho up for that, too.
+#END#
+
+#FIVE#
+Slimeantha 
+D...debate? D:
+#END#
+
+#SIX#
+Jellia 
+You... didn’t know there’d be a debate?
+#END#
+
+#SEVEN#
+Jellia 
+...
+#END#
+
+#EIGHT#
+Jellia 
+...Oh, dear. .-.
+#END#
+
+#NINE#
+Jellia 
+Well, don’t worry, you can still do this! It’s just one debate!
+#END#
+
+#TEN#
+Slimeantha 
+...In front of the whole school, with lots of bright lights shining right through me along with the stares of everyone in the school as I stand across from the girl who could have the school bought out and demolished with her mom’s company at a moment’s notice oh gods oh gods
+#END#
+
+#ELEVEN#
+Jellia 
+No! Bad anxiety! You can’t let this psyche you out like that!
+#END#
+
+#TWELVE#
+Jellia 
+You’re going to mop the floor with that mean ol’ Roozelyn, even on stage!
+#END#
+
+#THIRTEEN#
+Slimeantha 
+Even if she’s scary?
+#END#
+
+#FOURTEEN#
+Jellia 
+She won’t be scary when you’re ready for her! The best strategy right now is to prepare!
+#END#
+
+#FIFTEEN#
+Slimeantha 
+...Okay, you’re right - I’ve got to stop cowering every time I think of this.
+#END#
+
+#SIXTEEN#
+Slimeantha 
+So what do I need to know for the debates?
+#END#
+
+#SEVENTEEN#
+Jellia 
+Really anything can happen during a debate, but the main thing you need to know is what the people want from their school.
+#END#
+
+#EIGHTEEN#
+Jellia 
+Pay attention when you’re talking with club leaders so that you can tell when they want something.
+#END#
+
+#NINETEEN#
+Jellia 
+It shouldn’t be too hard, but just know that sometimes you’ll need to know them well enough before they tell you what they really want.
+#END#
+
+#TWENTY#
+Slimeantha 
+So it’s just a matter of getting to know them, right? They’re just regular people like the rest of us.
+#END#
+
+#TWENTYONE#
+Jellia 
+Yeah! Now you’re getting it! Just talk to ‘em, and it’ll be fine~!
+#END#
+
+#TWENTYTWO#
+Slimeantha 
+I have just under two weeks to prepare, and I’m going to make the most out of them.
+#END#
+
+#TWENTYTHREE#
+Jellia 
+I’ll wave my sign around the whole time to cheer you on! XD
+#END#
+
+#TWENTYFOUR#
+Slimeantha 
+Haha! Careful not to knock anyone out with that thing!
+#END#
+
+#TWENTYFIVE#
+Jellia 
+FOOL, THAT IS MY BEST STRATEGY! >:D
+#END#
+
+#ENDBLOCKS#

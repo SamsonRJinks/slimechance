@@ -1,0 +1,223 @@
+SCENE 6: DAY 4 - AFTER CLUB - HALLWAY
+
+#ONE#
+Slimeantha 
+Everyone else just asked for aqn extension for the homework, but I didn’t really think we needed it, so I said it had already been a week but for some reason, they just kept glaring at me - am I doing something wrong?
+#END#
+
+#TWO#
+Narrator 
+Slimeantha paused as she overheard some slimes standing in the hallway, trading gossip with her name attached.
+#END#
+
+#THREE#
+Random Slime 1
+Oh my glob, did you HEAR about what people have been saying about that one nobody girl running for class president?
+#END#
+
+#FOUR#
+Random Slime 2
+YES! Like, I heard she wants to take away break time and take out all the oil in the lunch pizza! I’m like, 80% oil - I need that grease!
+#END#
+
+#FIVE#
+Random Slime 1
+Uuuugh, she sounds like the absolute WORST.
+#END#
+
+#SIX#
+Random Slime 2
+You’re not gonna vote for her, right?
+#END#
+
+#SEVEN#
+Random Slime 1
+It’s like, student government - who cares enough to vote either way?
+#END#
+
+#EIGHT#
+Slimeantha
+*sniff* *whimper*
+#END#
+
+#NINE#
+Jellia
+*holds Slimeantha close* It’s okay, Slimeantha - those meanies don’t know what they’re talking about? Where did they even hear that?
+#END#
+
+#TEN#
+Slimeantha
+But... why would they say that? Did I do something wrong? I’m sorry, I’m sorry, I didn’t mean it, I’m sorry!
+#END#
+
+#ELEVEN#
+Jellia
+You didn’t do anything wrong! That’s just a nasty rumor that Roozelyn’s cronies must be spreaidng! Of all the nerve!!
+#END#
+
+#TWELVE#
+Jellia
+HEY, YOU TWO!
+#END#
+
+#THIRTEEN#
+Random Slime 1
+Um, exsqueeze me?
+#END#
+
+#FOURTEEN#
+Jellia
+Don’t pick on Slimeantha - those rumors aren’t true, and she did nothing w-
+#END#
+
+#FIFTEEN#
+Roozelyn
+She did absolutely nothing wrong, you two. What you heard was an exaggeration, at least. I may still be the far superior candidate, but I will not tolerate this flagarant of a flasehood against an opponent.
+#END#
+
+#SIXTEEN#
+Random Slime 1
+Ah! Uh, Roozelyn! Where did you come from?!
+#END#
+
+#SEVENTEEN#
+Random Slime 2
+Okay, okay, everything’s fine! If she says they’re not true, then they’re not true, hahahaha! Well, we’ll be going, now, seeyouaroundbye!
+#END#
+
+#EIGHTEEN#
+Jellia
+What’s the big idea, ya big drip?
+#END#
+
+#NINETEEN#
+Roozelyn
+*glares at Jellia* My apologies. My PR team seems to have missed the memo to cease the rumor-spreading plans.
+#END#
+
+#TWENTY#
+Jellia
+That doesn’t change the fact that you wanted to do it in the first place! Don’t act so high and mighty!
+#END#
+
+#TWENTYONE#
+Roozelyn
+Don’t provoke a woman who just extended you a momentary olive branch. Let’s just pretend this whole kerfuffle never happened.
+#END#
+
+#TWENTYTWO#
+Roozelyn
+I have things to attend to - calls to make, events to coordinate, and maybe even a class or two if I can fit such frivolous things in.
+#END#
+
+#TWENTYTHREE#
+Jellia
+This isn’t over, you! We’re still going to win this thing!
+#END#
+
+#TWENTYFOUR#
+Roozelyn
+Hmmph.
+#END#
+
+#TWENTYFIVE#
+Slimeantha
+Wait, Roozelyn...
+#END#
+
+#TWENTYSIX#
+Roozelyn
+Hmmph?
+#END#
+
+#TWENTYSEVEN#
+Slimeantha
+Thank you. I don’t appreciate you wanting to spread rumors about me, but thank you for calling them off.
+#END#
+
+#TWENTYEIGHT#
+Slimeantha
+I’m sure you’re a good person underneath all that brash exterior.
+#END#
+
+#TWENTYNINE#
+Roozelyn
+...C-come now, I know full well you don’t believe that. You know I’m terrible. Don’t convince yourself otherwise, or you’ll start to lose focus on the campaign.
+#END#
+
+#THIRTY#
+Slimeantha
+???
+#END#
+
+#THIRTYONE#
+Roozelyn
+I’ll be taking my leave now.
+#END#
+
+#THIRTYTWO#
+Slimeantha
+Wait, Roozelyn...
+#END#
+
+#THIRTYTHREE#
+Jellia
+What was with her just then?
+#END#
+
+#THIRTYFOUR#
+Slimeantha
+I don’t know. But she still seems as determined as ever, in spite of giving us a break.
+#END#
+
+#THIRTYFIVE#
+Slimeantha
+Jellia... will everyone still think about those rumors even if I become president? Will everyone still think of those nasty things when they think of me?
+#END#
+
+#THIRTYSIX#
+Jellia
+Oh dear, oh dear... c’mere, it’s alright *hugs tightly*
+#END#
+
+#THIRTYSEVEN#
+Jellia
+Everyone will forget about it in no time, you just wait. And your friends will never believe that junk in the first place.
+#END#
+
+#THIRTYEIGHT#
+Jellia
+And of course... you’ll always have me. You mean the world to me, and I’ll always be right here by your side to support you. <3
+#END#
+
+#THIRTYNINE#
+Slimeantha
+*blushing bright red*
+#END#
+
+#FOURTY#
+Narrator
+The two girls embraced in the hall for what felt like forever before Jellia tenderly moved back, looking at Slimeantha with her usual big, goo-fy grin.
+#END#
+
+#FOURTYONE#
+Jellia
+Hey, howzabout we go back to my dorm room? Oh! You haven’t met my pet ferret yet, you totally should while we’re there!
+#END#
+
+#FOURTYTWO#
+Jellia
+Her name is Bandit and she’s just the cutest little rascal you’ll ever see and she has soft white furandacutewiddletailandshemakesthisfastlittlesqueaksqueaksqueaknoisewhenshewantsattentionandandand
+#END#
+
+#FOURTYTHREE#
+Slimeantha
+That sounds lovely, Jellia. <3
+#END#
+
+#FOURTYFOUR#
+Narrator
+The two girls slid out the building, hand-in-hand, enjoying the quiet reprieve. Jellia nonchalantly tore down a Roozelyn poster on their way out.
+#END#
+
+#ENDBLOCKS#
