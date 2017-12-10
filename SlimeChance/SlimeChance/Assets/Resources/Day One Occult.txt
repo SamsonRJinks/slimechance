@@ -1,44 +1,299 @@
-#Test_One#
-Michiru
-I'm saying something here.
+#Occult_01#
+Slimeantha
+(Huh, I didn't realize this creepy shed was actually part of the school... I'm getting a little nervous about this... >_<;)
 #End#
 
-#Test_Two#
-Takashi
-I'm saying something else.
+#Occult_02#
+Slimeantha
+(Well, it's now or never... Wait, that's weird, the lights are all out.)
 #End#
 
-#Test_Two_Choice_1#
-Choice One
-This is the first choice description.
+#Occult_03#
+Slimeantha
+He-hello? Is anyone home?
 #End#
 
-#Test_Two_Choice_2#
-Choice Two
-This is the second choice description.
+#Occult_04#
+???
+Hee-hee-hee-hee-hee... What foolish denizen of the waking world has entered my palace of nightmares?
 #End#
 
-#Test_Two_Choice_3#
-Choice Three
-This is the third choice description. Hi there.
+#Occult_05#
+Slimeantha
+EEEEEEEEEEEEK!!! I'm sorry, I didn't realize I wasn't allowed here! >A< 
 #End#
 
-#Test_Three#
-Jelly
-Saying a third thing.
+#Occult_06#
+???
+Shhhhhh... Shh-shh-shhhhhh... Don't be afraid my dear little comrade, I know why you're here?
 #End#
 
-#Test_Four#
-Borp
-Blorp blorp.
+#Occult_07#
+Slimeantha
+You-you do? Wait... comrade?
 #End#
 
-#EndBlocks#
-That's...
-The end of that...
+#Occult_08#
+???
+Comrade in the quest for the... OCCULT. You're here because you're like me... An outcast, living on the fringes of the known world... Shh-shh-shhhhhhh... Don't cry dear. It's ok now.
 #End#
 
-#EndOfAllThings#
-Yo
-Next level pls.
+#Occult_09#
+Slimeantha
+I'm- I'm not crying.
+#End#
+
+#Occult_10#
+???
+Shush... No more tears. Sluzanne will guide you in search of the paranormal, and together, we will use the power we find in these dark corners to-
+#End#
+
+#Occult_11#
+Slimeantha
+Oh, wait, here's the light switch.
+#End#
+
+#Occult_12#
+Sluzanne
+Aaah!
+#End#
+
+#Occult_13#
+Slimeantha
+Wow, this club looks more... normal than I expected. You even have a fair amount of members! I didn't realize ghost hunting was this popular-
+#End#
+
+#Occult_14#
+Slimeantha
+Um, are you ok?
+#End#
+
+#Occult_15#
+Sluzanne
+Aaaaa... My eyes just sting, I didn't think you'd just... turn on the light!
+#End#
+
+#Occult_16#
+Slimeantha
+Oh! I'm sorry... I didn't mean to spoil your fun.
+#End#
+
+#Occult_17#
+Sluzanne
+Are you sure? I mean, where's your occult SPIRIT? Half the battle in believing in the unknown is having the right ATTITUDE, you know.
+#End#
+
+#Occult_18#
+Sluzanne
+Maybe it's generational, the first-years just don't believe in cryptids and ghosts the way they did when I started at this school. 
+#End#
+
+#Occult_19#
+Slimeantha
+Oh, well, um, I don't actually believe in this stuff... ^^;
+#End#
+
+#Occult_20#
+Sluzanne
+Hm? Wait, I think I know why you're here- hold on! Let me gather my psychic energies. Hmmmmmmmm... HMMMMmmmmm... HMMMMMMMMMMMMMMMMMMMMMMM.........
+#End#
+
+#Occult_21#
+Slimeantha
+(She looks like she's gonna pop... I hope this is worth it...)
+#End#
+
+#Occult_22#
+Slimeantha
+Um, I'm here for the-
+#End#
+
+#Occult_23#
+Sluzanne
+DON'T TELL ME. THE PICTURE IS FORMING I N  M Y  M I N D ...
+#End#
+
+#Occult_24#
+Slimeantha
+Oh, uh, ok. (I guess it's ok as long as she's having fun...)
+#End#
+
+#Occult_25#
+Sluzanne
+Hm... you're here on... OFFICIAL busines... right?
+#End#
+
+#Occult_26#
+Slimeantha
+You got it!
+#End#
+
+#Occult_27#
+Sluzanne
+Hee-hee-hee! Of course. Now, let's see- your face... it betrays an association. The student council, yes?
+#End#
+
+#Occult_28#
+Slimeantha
+Wow! Yeah, you're right.
+#End#
+
+#Occult_29#
+Sluzanne
+I see. Well then... If my predictions are right...
+#End#
+
+#Occult_30#
+Sluzanne
+PLEASE DON'T TAKE OUR SHED FROM US. WE'LL PAY THE FINES AS SOON AS WE CAN, BUT PLEASE, THIS IS OUR ONLY REPRIVE FROM THE WAKING  W O R L D !!!
+#End#
+
+#Occult_31#
+Slimeantha
+(Oh my gosh that got intense FAST! She's practically begging me, so she must think I'm already part of the council 0_0;)
+#End#
+
+#Occult_32#
+Sluzanne
+OUR OUTSTANDING FINES WILL BE PAID, SO PLEASE, HAVE MERCY ON US... PLEASE SLIME GODDESS, WE BEG YOU!
+#End#
+
+#Occult_33#
+Slimeantha
+Um, I'm not actually with the student council... 
+#End#
+
+#Occult_34#
+Sluzanne
+...Ahem. Please disregard what you just heard. So, you're here for the council election then?
+#End#
+
+#Occult_35#
+Slimeantha
+Uh, yes. I'm running for president and I wanted to talk with you about the Occult Club's voting stance- 
+#End#
+
+#Occult_36#
+Sluzanne
+We refuse. 
+#End#
+
+#Occult_37#
+Slimeantha
+...Excuse me? I don't understand.
+#End#
+
+#Occult_38#
+Slimeantha
+The Society for Paranormal, Occult, and Obscure Knowledge Education recognizes no mortal slime as superior to any other. We're all gooey puddles in the vast ocean of the absolute.
+#End#
+
+#Occult_39#
+Sluzanne
+So, each year we abstain from voting. Sorry, but you'll get nothing from talking to me when it comes to the mortal world.
+#End#
+
+#Occult_40#
+Slimeantha
+(Wow. Just like that, a whole day wasted. I'm sure if I'd asked any of the second or third years they would've told me about this, but I had to just jump right into it...)
+#End#
+
+#Occult_41#
+Slimeantha
+I'm sorry, I didn't mean to infringe upon your club time. I'll take off now. Thanks for talking to me.
+#End#
+
+#Occult_42#
+Slimeantha
+(Maybe I can still talk to one of the other clubs before the day is over. I don't want to give up yet, but this is probably going to be a big blow to my chances >~<)
+#End#
+
+#Occult_43#
+Sluzanne
+Wait!
+#End#
+
+#Occult_44#
+Slimeantha
+...Um, what's up?
+#End#
+
+#Occult_45#
+Sluzanne
+You're just giving up? This is what I'm talking about, ATTITUDE! You think just because something hasn't happened before means it never will!
+#End#
+
+#Occult_46#
+Slimeantha
+So, wait, I'm confused? I thought you said you wouldn't be voting?
+#End#
+
+#Occult_47#
+Sluzanne
+Hmph. The winds of fate blow in many directions, little first year. What once was, may not be on the morrow.
+#End#
+
+#Occult_48#
+Slimeantha
+...You want me to come back to talk with you more? Is that what you're saying?
+#End#
+
+#Occult_49#
+Sluzanne
+...If it pleases you, and the stars allowed such things to take place... Yes, I would find that, um, agreeable.
+#End#
+
+#Occult_50#
+Slimeantha
+(Maybe I still have a shot with her!)
+#End#
+
+#Occult_51#
+Sluzanne
+Ok, sounds great! I'll come again some time, I promise. Oh, I'm Slimeantha, by the way.
+#End#
+
+#Occult_52#
+Slimeantha
+But I'm sure you knew that already ;3c
+#End#
+
+#Occult_53#
+Sluzanne
+Ahem. Yes, um, of course. And, if you wouldn't mind, before you come next time, listen to this?
+#End#
+
+#Occult_54#
+Slimeantha
+(Ooh, a business card. Fancy.)
+#End#
+
+#Occult_55#
+Slimeantha
+"The S.P.O.O.K.E. Blobcast?"
+#End#
+
+#Occult_56#
+Sluzanne
+New episodes every Friday! The official club's blobcast. If you're interested in anything on there, feel free to, uh, let me know...
+#End#
+
+#Occult_57#
+Slimeantha
+Sounds great! I'll listen to it when I get home.
+#End#
+
+#Occult_58#
+Sluzanne
+Hee-hee-hee... Listen to it at the witching hour, and you may hear secrets in blobcast~!
+#End#
+
+#Occult_59#
+Slimeantha
+Uh. Ok, sounds good!
+#End#
+
+#Occult_60#
+Slimeantha
+(That was a bit weird, but at least it seems like she's open to more discussion...)
 #End#
