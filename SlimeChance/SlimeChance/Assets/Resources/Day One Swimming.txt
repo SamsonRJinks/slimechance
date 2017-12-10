@@ -1,44 +1,274 @@
-#Test_One#
-Michiru
-I'm saying something here.
+#Swimming_01#
+Slimeantha
+(Well, at least the Swimming Club was easy to find. I didn't think the pool would be open in fall though, I'm kind of surprised.)
 #End#
 
-#Test_Two#
-Takashi
-I'm saying something else.
+#Swimming_02#
+???
+Excuse me! I'm sorry, but you need to be wearing your swimming gear before entering the pool! 
 #End#
 
-#Test_Two_Choice_1#
-Choice One
-This is the first choice description.
+#Swimming_03#
+Slimeantha
+(Huh!? Wait, who said that?)
 #End#
 
-#Test_Two_Choice_2#
-Choice Two
-This is the second choice description.
+#Swimming_04#
+???
+Um, down here. 
 #End#
 
-#Test_Two_Choice_3#
-Choice Three
-This is the third choice description. Hi there.
+#Swimming_05#
+Slimeantha
+(WHOA! I've never seen a slime fill a whole pool! Her core must be huge!)
 #End#
 
-#Test_Three#
-Jelly
-Saying a third thing.
+#Swimming_06#
+Slimeantha
+Ah, I'm sorry! I didn't realize there was somebody already here.
 #End#
 
-#Test_Four#
-Borp
-Blorp blorp.
+#Swimming_07#
+???
+No worries, it happens all the time. Now, if you need to change, the lockers are to your left. We also have customary bathing caps and goggles for anyone that just wants to try out! 
 #End#
 
-#EndBlocks#
-That's...
-The end of that...
+#Swimming_08#
+Slimeantha
+Oh, um, I'm not-
 #End#
 
-#EndOfAllThings#
-Yo
-Next level pls.
+#Swimming_09#
+???
+Oh, I almost forgot to introduce myself- I'm Limona. I'm the club's president, but don't worry, this club isn't about ranks or competitions, it's about having fun! 
+#End#
+
+#Swimming_10#
+Limona
+That's the beauty of this club- we can set goals for ourselves, train ourselves, and enjoy ourselves to the fullest every day, and all it takes is a hole in the ground and enough liquid to fill it.
+#End#
+
+#Swimming_11#
+Slimeantha
+Right, about that- can I ask why you seem to be the liquid, in this case?
+#End#
+
+#Swimming_12#
+Limona
+Oh. Um. Haha, I guess you must have missed it at orientation, but we don't have a big enough budget for chlorine tablets and pool cleaners and all of those things, so uh, I have to fill the gaps per se... ^^; 
+#End#
+
+#Swimming_13#
+Slimeantha
+Wait, that's awful! The swimming club is a big selling point for our school!  
+#End#
+
+#Swimming_14#
+Limona
+Oh, it's not so bad... And besides, why so glum, chum? I can fill the pool, so we can swim together as much as you want! So don't worry about me, ok?
+#End#
+
+#Swimming_15#
+Slimeantha
+Well, I mean, I don't know much about you yet... but I am worried! 
+#End#
+
+#Swimming_16#
+Slimeantha
+I don't want to get in your way or anything, but isn't it hard to maintain that much slime for that long?
+#End#
+
+#Swimming_17#
+Limona
+Uh, well, don't tell anyone on the student council this, but it's pretty tiring to be sure. But! I can work through it. It just, you know, takes me a while to get everything back in my core. 
+#End#
+
+#Swimming_18#
+Limona
+So, I've been late to class a lot recently, haha...
+#End#
+
+#Swimming_19#
+Slimeantha
+Wait... what year are you, if you don't mind me asking?
+#End#
+
+#Swimming_20#
+Limona
+Oh, um, I'm a first-year... The last president did this stuff too, and she... passed the buck to me I guess...
+#End#
+
+#Swimming_21#
+Limona
+I'm sorry for bringing the mood down, I'll stop talking now. Club ended a little while ago, but if you want to jump in I can probably keep it together for a bit longer.
+#End#
+
+#Swimming_22#
+Slimeantha
+...Hey, Limona...
+#End#
+
+#Swimming_23#
+Limona
+Yeah...?
+#End#
+
+#Swimming_24#
+Slimeantha
+I'm Slimeantha. And I didn't come here to swim today, but I think I should tell you something I'm thinking about...
+#End#
+
+#Swimming_25#
+Slimeantha
+It's probably really hard to talk with your friends when they're swimming in you, huh?
+#End#
+
+#Swimming_26#
+Limona
+...
+#End#
+
+#Swimming_27#
+Slimeantha
+...
+#End#
+
+#Swimming_28#
+Limona
+Yeah... a little bit...
+#End#
+
+#Swimming_29#
+Slimeantha
+And it's probably really hard to be the head of the Swimming Club, but not be able to swim...
+#End#
+
+#Swimming_30#
+Limona
+Yeah... A lot bit, haha...
+#End#
+
+#Swimming_31#
+Slimeantha
+I think... I think I know what that feels like.
+#End#
+
+#Swimming_32#
+Slimeantha
+Right now, I'm actually running for Student Council President... But I don't know if I'm cut out for the job... At all.
+#End#
+
+#Swimming_33#
+Slimeantha
+I'm bad at talking to people, and I don't have many friends... Or really, more than one friend. I've never been popular, or good at sports, or taking tests.
+#End#
+
+#Swimming_34#
+Limona
+So why are you doing it?
+#End#
+
+#Swimming_35#
+Slimeantha
+...Because I wanted to push myself to be better. I was tired of being alone all the time, y'know?
+#End#
+
+#Swimming_36#
+Limona
+Yeah... I think I do...
+#End#
+
+#Swimming_37#
+Slimeantha
+And this student council thing, it may be my best shot for it. Even if I don't get to do what I want with this, I still think it'll be fun to help people. 
+#End#
+
+#Swimming_38#
+Slimeantha
+Anyway, I just wanted to let you know... I think you're really cool. For doing this.
+#End#
+
+#Swimming_39#
+Slimeantha
+That's all. I won't keep you any longer, I'm sure it'll take awhile to get out, so-
+#End#
+
+#Swimming_40#
+Limona
+Sniff...
+#End#
+
+#Swimming_41#
+Slimeantha
+(Uh oh... she's not going to-)
+#End#
+
+#Swimming_42#
+Limona
+WAAAAAAAAAAAAAAAAAAAAAAAAAAH!!!
+#End#
+
+#Swimming_43#
+Slimeantha
+Oh jeez, oh jeez! I'm sorry, I didn't mean to make you sad! I was just trying to-
+#End#
+
+#Swimming_44#
+Limona
+No, I'm not sad~! ;>o<;
+#End#
+
+#Swimming_45#
+Slimeantha
+(I mean, you look sad...)
+#End#
+
+#Swimming_46#
+Limona
+It's just... nobody's ever said I was... cool, before. They mostly ignore me...
+#End#
+
+#Swimming_47#
+Slimeantha
+I know how that feels. Well, hey, I don't swim much, but what if I came by again so we could talk more?
+#End#
+
+#Swimming_48#
+Limona
+Sniff... You'd do that?
+#End#
+
+#Swimming_49#
+Slimeantha
+Of course! Maybe we can find a way to let you talk with your club friends again!
+#End#
+
+#Swimming_50#
+Limona
+That'd be amazing ;0;
+#End#
+
+#Swimming_51#
+Slimeantha
+Ok! I'll see you then, alright? Be careful getting out, ok?
+#End#
+
+#Swimming_52#
+Limona
+I will! Thank you!!!
+#End#
+
+#Swimming_53#
+Slimeantha
+(That was... different, than I expected. I'm glad I got to talk with her, though. Jellia showed me how important having someone to talk to is when you're feeling alone in a crowd.)
+#End#
+
+#Swimming_54#
+Slimeantha
+(Wait, darnit, I barely talked at all about the student council election! Aaaaa, I really screwed up >0<)
+#End#
+
+#Swimming_55#
+Slimeantha
+(Well, we talked about a lot of stuff, so I guess it's ok. Maybe next time!)
 #End#
