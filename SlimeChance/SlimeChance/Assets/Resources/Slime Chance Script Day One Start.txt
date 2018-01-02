@@ -338,9 +338,6 @@ Teacher
 Um... may I start class yet?
 #END#
 
- 
-SCENE 2: AFTER CLASS - HALLWAY
-
 #SIXTYSEVEN#
 Jellia 
 Okay so I admit that in retrospect, maybe it WASN’T a good idea for my to provoke her. I still stand by the fact that she’s a pushy meanie, though. >~<
@@ -421,24 +418,24 @@ Jellia
 Which club will you visit today?
 #END#
 
-#EIGHTYTWO_CHOICE_1#
-Slimeantha 
-Swimming Club sounds fun.
+#START_EIGHTYTWO_Choice_1#
+Swimming Club
+Sounds like fun, and good exercise.
 #END#
 
-#EIGHTYTWO_CHOICE_2#
-Slimeantha 
-Literature Club - I do enjoy a good book.
+#START_EIGHTYTWO_Choice_2#
+Literature Club
+I do enjoy a good book.
 #END#
 
-#EIGHTYTWO_CHOICE_3#
-Slimeantha 
-Paranormal Club? That’s a thing?
+#START_EIGHTYTWO_Choice_3#
+Paranormal Club
+That’s a thing?
 #END#
 
-#EIGHTYTWO_CHOICE_4#
-Slimeantha 
-Cooking Club - what a useful skill!
+#START_EIGHTYTWO_Choice_4#
+Cooking Club
+Useful skills, and yummy treats when you're done! Mm~!
 #END#
 
 #EIGHTYTHREE#
@@ -450,5 +447,3 @@ Here I go - wish me luck, Jellia!
 Jellia 
 *leans forward and hugs tenderly* You can do this. I’ll be cheering you on all the way.
 #END#
-
-#ENDBLOCKS#

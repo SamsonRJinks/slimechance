@@ -51,9 +51,11 @@ public class FavorCheck
 
 public class TextBlocks : MonoBehaviour
 {
-    //Base text asset that this set of blocks will use
-    //public string myTextAssetName;
+    //Name of the block that is referenced in text assets and playerbehavior
     public string myBlockName;
+
+    //Base text asset that this set of blocks will use
+    public string myTextAssetName;
 
     //all blocks in this single blockset
     public List<MyBlock> myBlocks = new List<MyBlock>();

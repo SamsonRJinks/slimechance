@@ -144,6 +144,8 @@ public class PlayerBehavior : MonoBehaviour
             currentBlockID = -1;
         }
 
+        allMyDialogue.NewTextFile(myBlockSet.myTextAssetName);
+
         setLength = myBlockSet.GetSetLength();
 
         NextBlock();

@@ -32,10 +32,11 @@ public class StreamReader : MonoBehaviour
 
     void Awake()
     {
-        myTextFile = Resources.Load(textFileName) as TextAsset;
+        //myTextFile = Resources.Load(textFileName) as TextAsset;
 
+        //print(myTextFile.text.Length);
         //On awake, add all to dictionary
-        FillDictionary();
+        //FillDictionary();
     }
 
     public void NewTextFile(string newFileName_)

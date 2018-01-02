@@ -80,6 +80,7 @@ public class ChoicesBehavior : MonoBehaviour
     {
         if(ChoiceNum_ <= myChoices.Count)
         {
+            
             string choiceMade = myChoices[ChoiceNum_ - 1].GetChoiceName();
             string choiceFinal = "";
 
@@ -92,6 +93,8 @@ public class ChoicesBehavior : MonoBehaviour
 
             //Adjust favor based on the choice made
             screenPlayer.ChangeFavor(ChoiceNum_);
+
+            //Based on choice name, go to new blockset
             screenPlayer.GoToNewBlockSet(choiceFinal);
         }
     }

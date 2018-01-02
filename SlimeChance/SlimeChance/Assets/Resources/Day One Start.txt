@@ -1,0 +1,449 @@
+#ONE#
+Narrator
+The prestigious Ave Protista Academy for Young Slimes opens its gates for another semester.
+#END#
+
+#TWO#
+Narrator
+Many young slimes come each year for a shot at greatness and in the pursuit of higher learn ing.
+#END#
+
+#THREE#
+Narrator
+But one slime in particular feels left out. A bit shy. A bit unprepared for the promise that the new year brings.
+#END#
+
+#FOUR#
+Narrator
+Maybe she just needs a little push in the right direction to leave her mark on the school. Maybe she’ll be a bigger help than anyone could have imagined...
+#END#
+
+#FIVE#
+Slimeantha
+Okay. Okay, girl, you can do this. Just go in and introduce yourself to her. Easy as pie.
+#END#
+
+#SIX#
+Slimeantha
+...
+#END#
+
+#SEVEN#
+Slimeantha
+HEYTHEREDOYOULIKETHISCLASSIWASNEVERGOODATTRIGONOMETRYBUTIMGOINGTOTRYMYBEST 
+#END#
+
+#EIGHT#
+Slimeantha
+...She ran away.
+#END#
+
+#EIGHT#
+Slimeantha
+Stupid, stupid Slimeantha!
+#END#
+
+#NINE#
+Slimeantha
+Well, maybe she’ll forget about it and I can try and talk to her... a month from now.
+#END#
+
+#TEN#
+Jellia
+SLIMEANTHAAAAA~!!! *pounces*
+#END#
+
+#ELEVEN#
+Slimeantha
+AHH! ...Oh, hi, Jellia.
+#END#
+
+#TWELVE#
+Jellia
+How’s it goin’, cutieblorp? Enjoying roaming the beautiful, shiny halls of Protista again~?
+#END#
+
+#THIRTEEN#
+Slimeantha
+Not quite... “Operation Have-A-Not-Totally-Dead-Social-Life” is off to a bad start.
+#END#
+
+#FOURTEEN#
+Jellia
+Aww, I’m sorry - social stuff can be super-rough if you’re not used to it yet.
+#END#
+
+#FIFTEEN#
+Jellia
+But I believe in ya, girl! You’re gonna be swimming in friends this year! Actually swimming in them! A giant mass of friend-goo!!
+#END#
+
+#SIXTEEN#
+Slimeantha
+Jelliaaaaa you’re embarrassing me! >.<
+#END#
+
+#SEVENTEEN#
+Slimeantha
+But I appreciate your encouragement. I’m going to give it my all this year and leave my mark on this school.
+#END#
+
+#SEVENTEEN#
+Jellia
+That’s the spirit! Go, go, go! I’ll be right behind you all the way!
+#END#
+
+#EIGHTEEN#
+Jellia
+...I’ll always be here for you, Slimeantha. <3
+#END#
+
+#NINETEEN#
+Slimeantha
+Huh? Sorry, I missed that - what was that again?
+#END#
+
+#TWENTY#
+Jellia
+Oh, um... nothing! >///<
+#END#
+
+#TWENTYONE#
+Jellia
+Anyway, gossip! You probably haven’t been in the loop since you’ve been out of town for the whole summer, so let me fill you in!
+#END#
+
+#TWENTYTWO#
+Jellia
+Anyway, gossip! You probably haven’t been in the loop since you’ve been vacationing in Alageria for the whole summer, so let me fill you in!
+#END#
+
+#TWENTYTHREE#
+Jellia
+Biggest news: The class president fell down a storm drain just days before the semester started! She’s going to be in the hospital until she grows back enough body mass to come back to school!
+#END#
+
+#TWENTYFOUR#
+Slimeantha
+Oh no! That poor girl, is she going to be alright?
+#END#
+
+#TWENTYFIVE#
+Jellia
+Yeah, thankfully her core wasn’t damaged, so she’ll be fine - she just needs some good ol’ R&R.
+#END#
+
+#TWENTYSIX#
+Slimeantha
+But wait, who’s going to be the class president in the meantime? We never elect a VP, and there’s a lot of stuff that has to be sorted out near the beginning of the year.
+#END#
+
+#TWENTYSEVEN#
+Jellia
+Believe it or not, there’s gonna be a whole new election right away!
+#END#
+
+#TWENTYEIGHT#
+Slimeantha
+What?! But... but the semester only just started!
+#END#
+
+#TWENTYNINE#
+Jellia
+That’s the brakes, I guess. Because of the rush, I don’t know anyone who is even running for it. No one wants to put together a campaign that soon. :/
+#END#
+
+#THIRTY#
+Jellia
+...
+#END#
+
+#THIRTYONE#
+Jellia
+Heeeeeeey, this gives me an idea~ >w>
+#END#
+
+#THIRTYTWO#
+Slimeantha
+???
+#END#
+
+#THIRTYTHREE#
+Jellia
+YOU should run for class president!
+#END#
+
+#THIRTYFOUR#
+Slimeantha
+Wh-what?! Did you hit your core or something? There’s no way I could do that!!
+#END#
+
+#THIRTYFIVE#
+Jellia
+Aw c’mon - you could totally do this! Besides, you wanted to have an excuse to reach out to folks and make friends, right? You said you wanted to make an impact on the school, right? :D
+#END#
+
+#THIRTYSIX#
+Slimeantha
+Well... I mean I guess...
+#END#
+
+#THIRTYSEVEN#
+Jellia
+You could buddy up with all the school’s club leaders to get to know them and get their support!
+#END#
+
+#THIRTYEIGHT#
+Slimeantha
+But wouldn’t that be weird, just talking to people for political reasons? I wanna make friends, not just... constituents.
+#END#
+
+#THIRTYNINE#
+Jellia
+No reason ya can’t do both - real support comes from trust and friendship anyway!
+#END#
+
+#FOURTY#
+Jellia
+Trust me. You could totally do this if you wanted. I’m not trying to force you into doing this if you don’t want to, but... I really think it would help.
+#END#
+
+#FOURTYONE#
+Jellia
+I just want you to be happy, Slimeantha. <3
+#END#
+
+#FOURTYTWO#
+Slimeantha
+...
+#END#
+
+#FOURTYTHREE#
+Slimeantha
+...Okay. You’re right, I can do this. I’m going to make friends, reach out, and run for class president!
+#END#
+
+#FOURTYFOUR#
+Jellia
+Whoo-hoo! You go, girl! Say it again! You’re not just gonna RUN for class prez, you’re gonna BE class prez!
+#END#
+
+#FOURTYFIVE#
+Slimeantha
+I, Slimeantha Embryolle, am going to be class president.
+#END#
+
+#FOURTYSIX#
+Jellia
+Louder! With feeling!
+#END#
+
+#FOURTYSEVEN#
+Slimeantha
+I, Slimeantha Embryolle, am going to be class president!
+#END#
+
+#FOURTYEIGHT#
+JELLIA
+I CAN’T HEAR YOU!
+#END#
+
+#FOURTYNINE#
+SLIMEANTHA
+I, SLIMEANTHA EMBRYOLLE, AM GOING TO BE CLASS PRESIDENT!!!
+#END#
+
+#FIFTY#
+Narrator
+The pipes interrupted by shaking and rumbling in the classroom sink, straining and clunking loudly, before spitting out a large mass of goo onto the floor!
+#END#
+
+#FIFTYONE#
+Narrator
+The pipes interrupted by shaking and rumbling in the classroom sink, straining and clunking All the girls crowded around the goo as it formed back up into a slender person-shape.
+#END#
+
+#FIFTYTWO#
+Roozelyn
+Say hello to your new classmate, girls! Make way for Roozelyn!
+#END#
+
+#FIFTYTHREE#
+Narrator
+The new girl sauntered confidently to the front of the classroom, hopping up onto the teacher’s desk, much to her dismay.
+#END#
+
+#FIFTYFOUR#
+Roozelyn
+I’d introduce myself, but my reputation likely proceeds me - my mother is the CEO of the Myxo-Gastro Group, and she saw fit to send me to only the finest academy in the region.
+#END#
+
+#FIFTYFIVE#
+Jellia
+*whispers* Myxo-Gastro? The soda company?!
+#END#
+
+#FIFTYSIX#
+Roozelyn
+I am also pleased to announce that I will be your new class president! I have been researching this school for some time, and I have plenty of ideas for changes to benefit the student body. Look forward to my campagin’s grand premiere later today!
+#END#
+
+#FIFTYSEVEN#
+Roozelyn
+And to show you how much I care, I’ve provided a little surprise to break the ice...
+#END#
+
+#FIFTYEIGHT#
+Roozelyn
+Free Pepsilt for the entire class!!
+#END#
+
+#FIFTYNINE#
+Narrator
+Some slimes in black suits and sunglasses roll a soda fountain into the classroom as everyone cheers and rushes to get a drink.
+#END#
+
+#SIXTY#
+Jellia 
+H-hey you! The campaigns haven’t even started yet! Y...you’re not the class president until the people decide it!
+#END#
+
+#SIXTYONE#
+Slimeantha 
+*whispers, retreated into a blob-form* JELLIA WHAT ARE YOU DOING
+#END#
+
+#SIXTYTWO#
+Jellia 
+Yeah, that’s right, I’m talkin’ to you! You think you can waltz in here like you’re the slickest slime on the block, but we hardly even know you! My friend Slimeantha’s gonna whup your core in the election!
+#END#
+
+#SIXTYTHREE#
+Narrator 
+Roozelyn gracefully descended from the teacher’s desk, approaching Slimeantha, staring her down, eyes locking only a few inches apart, and never for a second losing her piercing, confident glare.
+#END#
+
+#SIXTYFOUR#
+Roozelyn 
+Competiton? How droll. This should be fun - let it not be said that I take a rival’s challenge laying down - you have yourself a race, my dear little puddle.
+#END#
+
+#SIXTYFIVE#
+Slimeantha 
+*frozen in terror*
+#END#
+
+#SIXTYSIX#
+Teacher 
+Um... may I start class yet?
+#END#
+
+#SIXTYSEVEN#
+Jellia 
+Okay so I admit that in retrospect, maybe it WASN’T a good idea for my to provoke her. I still stand by the fact that she’s a pushy meanie, though. >~<
+#END#
+
+#SIXTYEIGHT#
+Jellia 
+But... are you going to be okay, Slimeantha? That was probably a lot to take in.
+#END#
+
+#SIXTYNICE#
+Jellia 
+I would totally understand if you wanted to drop out of the race. She seems like she’ll be a tough cookie.
+#END#
+
+#SEVENTY#
+Jellia 
+But whatever you decide, I’ll be right by your side the whole way! We’ll stick together like glue!
+#END#
+
+#SEVENTYONE#
+Slimeantha 
+You really think I have a chance, Jellia? You’re not just saying that to be nice?
+#END#
+
+#SEVENTYTWO#
+Jellia 
+Of COURSE I do, silly! I believe in you one-bajillion percent times infinity!
+#END#
+
+#SEVENTYTHREE#
+Slimeantha 
+...
+#END#
+
+#SEVENTYFOUR#
+Slimeantha 
+...I’m still in. >:)
+#END#
+
+#SEVENTYFIVE#
+Jellia 
+Attagirl! We’re gonna do great! I’ll start working on campaign stuffs right away!
+#END#
+
+#SEVENTYSIX#
+Jellia 
+But first, you’re gonna have to start putting yourself out there. How about you do what we talked about earlier and visit one of the school’s four clubs?
+#END#
+
+#SEVENTYSEVEN#
+Slimeantha 
+We really only have four clubs?
+#END#
+
+#SEVENTYEIGHT#
+Jellia 
+Have you SEEN our homework load lately?
+#END#
+
+#SEVENTYNINE#
+Slimeantha 
+Touche.
+#END#
+
+#EIGHTY#
+Slimeantha 
+I might as well go introduce myself, at least.
+#END#
+
+#EIGHTYONE#
+Jellia 
+Yeah, they’re nice folks - they don’t bite! ...Most of them, anyway.
+#END#
+
+#EIGHTYTWO#
+Jellia 
+Which club will you visit today?
+#END#
+
+#START_EIGHTYTWO_Choice_1#
+Swimming Club
+Sounds like fun, and good exercise.
+#END#
+
+#START_EIGHTYTWO_Choice_2#
+Literature Club
+I do enjoy a good book.
+#END#
+
+#START_EIGHTYTWO_Choice_3#
+Paranormal Club
+That’s a thing?
+#END#
+
+#START_EIGHTYTWO_Choice_4#
+Cooking Club
+Useful skills, and yummy treats when you're done! Mm~!
+#END#
+
+#EIGHTYTHREE#
+Slimeantha 
+Here I go - wish me luck, Jellia!
+#END#
+
+#EIGHTYFOUR#
+Jellia 
+*leans forward and hugs tenderly* You can do this. I’ll be cheering you on all the way.
+#END#
