@@ -294,6 +294,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\Day One Cooking.txt" />
+    <None Include="Assets\Resources\Day One End.txt" />
     <None Include="Assets\Resources\Day One Literature.txt" />
     <None Include="Assets\Resources\Day One Occult.txt" />
     <None Include="Assets\Resources\Day One Start.txt" />

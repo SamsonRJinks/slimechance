@@ -1,0 +1,89 @@
+﻿#ONE#
+Jellia 
+*is standing outside with a shoddily-drawn “slimaentha 4 clas prez” sign* Well? How did it go? How did it go? :D
+#END#
+
+#TWO#
+Slimeantha 
+You... you waited for me? But it’s getting so late! Didn’t you have to take the tube ride back home?
+#END#
+
+#THREE#
+Jellia 
+Oh, that doesn’t matter - I can get home anytime. What’s more important is HOW DID IT GO? :D
+#END#
+
+#FOUR#
+Slimeantha 
+Well, uh...
+#END#
+
+#FOUR_CHOICE_1#
+Slimeantha 
+It actually went great - we really hit it off!
+#END#
+
+#FOUR_CHOICE_2#
+Slimeantha 
+It was fine - it went as well as you’d expect from a first meeting.
+#END#
+
+#FOUR_CHOICE_3#
+Slimeantha 
+I don’t know if they liked me very much... >.>
+#END#
+
+#FIVE#
+Jellia 
+Well, I’m super-proud of you for going in the first place - that took a lot of courage! I’m sure they’ll grow to really like you with time!
+#END#
+
+#SIX#
+Slimeantha 
+Thank you, Jellia - you were right, maybe I really CAN do this. *hugs*
+#END#
+
+#SEVEN#
+Jellia 
+*blushes bright-red*
+#END#
+
+#EIGHT#
+Jellia 
+Y-yeah! Any...anyway, what do you think of my sign? I’m gonna make a bunch of posters, too! This is totes happening for real now!
+#END#
+
+#NINE_CHOICE_1#
+Slimeantha 
+*giggles* I think it’s lovely~
+#END#
+
+#NINE_CHOICE_2#
+Slimeantha 
+I love it, but um.. just out of curiosity, how have you been doing in language classes lately?
+#END#
+
+#TEN#
+Jellia 
+Spell-check is for nerds ;V
+#END#
+
+#ELEVEN#
+Slimeantha 
+I still can’t believe this - I’m actually running for class president.
+#END#
+
+#TWELVE#
+Jellia 
+And I couldn’t be prouder - welcome to your first day on the campaign trail, girl!
+#END#
+
+#THIRTEEN#
+Jellia 
+Whaddaya say we go get a snack and some Nutri-goo to celebrate?
+#END#
+
+#FOURTEEN #
+Slimeantha 
+I’d love that, Jellia.
+#END#

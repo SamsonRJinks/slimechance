@@ -24,7 +24,7 @@ Slimeantha
 #End#
 
 #Literature_06#
-Vasélle
+Vaselle
 (Ah, I'll just ask her where the Literature Club is, I can't take this silence anymore! >x<)
 #End#
 
@@ -34,8 +34,8 @@ Um, hey, I heard the Literature Club meets here, but it doesn't look like anyone
 #End#
 
 #Literature_08#
-Vasélle
-Um... you're in the right place... I'm Vasélle, Club President. Sorry if I'm in your way, I'll move-
+Vaselle
+Um... you're in the right place... I'm Vaselle, Club President. Sorry if I'm in your way, I'll move-
 #End#
 
 #Literature_09#
@@ -45,11 +45,11 @@ Slimeantha
 
 #Literature_10#
 Slimeantha
-ACTUALLY- oh sorry, forgot we were in a library. Uh, actually, I wanted to talk with YOU Vasélle!
+ACTUALLY- oh sorry, forgot we were in a library. Uh, actually, I wanted to talk with YOU Vaselle!
 #End#
 
 #Literature_11#
-Vasélle
+Vaselle
 O-oh! Uh, I see, well, this is... oh my gosh, I'm a bit embarresed...
 #End#
 
@@ -59,7 +59,7 @@ Slimeantha
 #End#
 
 #Literature_13#
-Vasélle
+Vaselle
 It's been so long since a new member joined!
 #End#
 
@@ -69,7 +69,7 @@ Slimeantha
 #End#
 
 #Literature_15#
-Vasélle
+Vaselle
 ...
 #End#
 
@@ -79,7 +79,7 @@ Slimeantha
 #End#
 
 #Literature_17#
-Vasélle
+Vaselle
 ...You're not here to join...
 #End#
 
@@ -89,7 +89,7 @@ Sorry, no. I'm actually hear to talk to you about the upcoming student council e
 #End#
 
 #Literature_19#
-Vasélle
+Vaselle
 The other members only really come on Fridays... It's a literature club, and you can read anywhere, so they only need to be here to talk during our weekly discussion.
 #End#
 
@@ -109,7 +109,7 @@ Slimeantha
 #End#
 
 #Literature_24#
-Vasélle
+Vaselle
 Oh... uh well, I'm sorry, I'm still reading it so I don't know how it ends, but it's a classical novel about the rise of IMPERIALISM in the Western world and it's ties to the spice trade during the 1800s. The main character is a young girl that was born out of WEDLOCK, and now lives with her step-mother in a city in the Carribean, where she's starting to recognize the importance of her heritage. But see, the REALLY interesting developments start around Chapter 4, where the main character realizes her step-mother is planning to DISOWN HER so she can remarry someone with a higher social standing. In the dead of night...
 #End#
 
@@ -119,7 +119,7 @@ Slimeantha
 #End#
 
 #Literature_26#
-Vasélle
+Vaselle
 ...you, Slimeantha?
 #End#
 
@@ -129,7 +129,7 @@ Sorry, what?
 #End#
 
 #Literature_28#
-Vasélle
+Vaselle
 What about you? Do you read a lot?
 #End#
 
@@ -139,7 +139,7 @@ Not as much as I probably should, haha... I used to read during study hall, but 
 #End#
 
 #Literature_30#
-Vasélle
+Vaselle
 Yeah... I miss those days... 
 #End#
 
@@ -149,12 +149,12 @@ Wait, you mean middle school?
 #End#
 
 #Literature_32#
-Vasélle
+Vaselle
 Uh, yeah... It's a little embarressing, but the teachers didn't pay as much attention to me back then, so I'd read books in class and during breaks.
 #End#
 
 #Literature_33#
-Vasélle
+Vaselle
 It was against the rules, but they didn't care as long as my grades were good.
 #End#
 
@@ -164,7 +164,7 @@ Wow! You must be super smart, then!
 #End#
 
 #Literature_35#
-Vasélle
+Vaselle
 Oh, um, I do ok, I think? I'm kind of bored in study hall b/c I finish my homework so quickly, though. I wish I could come here, it's so quiet and there aren't too many people around usually.
 #End#
 
@@ -184,7 +184,7 @@ Well, what if I made that happen?
 #End#
 
 #Literature_39#
-Vasélle
+Vaselle
 Wh-what?
 #End#
 
@@ -199,7 +199,7 @@ Slimeantha
 #End#
 
 #Literature_39#
-Vasélle
+Vaselle
 That sounds... really nice, actually...
 #End#
 
@@ -210,11 +210,11 @@ Slimeantha
 
 #Literature_41#
 Slimeantha
-Ok, sounds good. I'll write that up ASAP! Thanks so much for talking with me Vasélle, it'll really help me out.
+Ok, sounds good. I'll write that up ASAP! Thanks so much for talking with me Vaselle, it'll really help me out.
 #End#
 
 #Literature_42#
-Vasélle
+Vaselle
 No, thanks for talking with me. Um... 0////0
 #End#
 
@@ -224,7 +224,7 @@ What's up?
 #End#
 
 #Literature_44#
-Vasélle
+Vaselle
 You're not a member, but if you want to... hang out here, after school, feel free to come by... I think we could be... um...
 #End#
 
@@ -234,7 +234,7 @@ Slimeantha
 #End#
 
 #Literature_46#
-Vasélle
+Vaselle
 ...Only if you want to... 0////0
 #End#
 
@@ -244,7 +244,7 @@ For sure! I'll definitely come by again!
 #End#
 
 #Literature_48#
-Vasélle
+Vaselle
 :D Thanks Slimeantha...
 #End#
 
@@ -254,7 +254,7 @@ Oh, uh, I almost forgot, how did you know my name?
 #End#
 
 #Literature_50#
-Vasélle
+Vaselle
 Um... I've uh, seen you around... >///<
 #End#
 
@@ -269,7 +269,7 @@ Oh I getcha! Ok, see you when I see you friendo!
 #End#
 
 #Literature_53#
-Vasélle
+Vaselle
 Bye!
 #End#
 
